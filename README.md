@@ -1,5 +1,8 @@
 This is just a Dashboard for the website.
 
+Deployed link: https://graceful-truffle-e3347c.netlify.app/
+
+
 I will try to complete full fledge working website in some time. 
 
 
